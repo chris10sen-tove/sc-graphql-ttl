@@ -1,2 +1,2 @@
 # sc-graphql-ttl
-A GraphQL tutorial.
+Practice with GraphQL.
