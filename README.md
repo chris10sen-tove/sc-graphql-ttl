@@ -1,2 +1,5 @@
 # sc-graphql-ttl
-Practice with GraphQL.
+GraphQL set up with Apollo Server (using JavaScript)
+## Node dependencies
+`graphql`
+`@apollo/server`
